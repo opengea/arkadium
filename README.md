@@ -1,7 +1,12 @@
 # Arkadium.ai project
 Open-source system for holistic and deep knowledge organization, combining Retrieval-Augmented Generative models, Conversational Search, and Interactive Knowledge Maps for intuitive knowledge discovery and comprehensive understanding.
+
+# License
 This project is licensed under the Apache License 2.0. See the LICENSE file for details.
-By Jordi Berenguer, Opengea SCCL
+
+# Authors
+By Jordi Berenguer
+Opengea SCCL
 https://www.opengea.org
 
 # Overview
